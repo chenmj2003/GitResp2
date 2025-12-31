@@ -7,4 +7,5 @@ public class Student {
     public void eat() {
         System.out.println("我想吃饭。。。");
     }
+    private int a;
 }
