@@ -27,3 +27,15 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IDEA编辑器配置（核心必加）
+.idea/
+*.iml
+.gradle/
+build/
+out/
+
+# 通用忽略规则（可选，按需添加）
+*.log
+node_modules/
+target/
